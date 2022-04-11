@@ -11,10 +11,10 @@ Après avoir forké ou récupéré ce projet, ouvrez le avec VS Code ou votre é
 Lui ajouter 9 via l'opérateur arithmétique correspondant
 Afficher la variable avec l'opération effectuée
 
-#### Prenons l'exemple d'une somme d'argent de 450 euros, composées en billets de 5, 10, et 20 euros
+#### Prenons l'exemple d'une somme d'argent de 450 euros, composée en billets de 5, 10, et 20 euros
 
-Nous savons que nous possédons 6 billets de 20 euros et 52 billets de 5 euros, combien restent-ils de billets de 10 euros ?
-Poser les opérations nécesaires au calcul
+Nous savons que nous possédons 6 billets de 20 euros et 52 billets de 5 euros, combien reste t'il de billets de 10 euros ?
+Poser les opérations nécessaires au calcul
 
 #### La rentrée des classes approchent et les élèves de 6e sont au nombre de 155, il faut tous les placer dans des classes de 30 maximum
 
@@ -23,7 +23,7 @@ Combien restera t'il d'enfants dans la dernière classe à être composée ?
 
 ### Exercice 2 : Fichier M11003-2.php
 
-#### Après avoir déclarer une nouvelle variable ayant pour valeur 27
+#### Après avoir déclaré une nouvelle variable ayant pour valeur 27
 
 Comparer cette variable en vérifiant si sa valeur est supérieure ou égale à 35 et dumper le résultat
 
